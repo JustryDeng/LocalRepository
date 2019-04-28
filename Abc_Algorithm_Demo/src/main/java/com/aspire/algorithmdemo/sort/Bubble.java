@@ -29,6 +29,7 @@ public class Bubble {
         if (list == null || list.isEmpty()) {
             // abc
             // xyzddd
+            // xyzvvv
             return list;
         }
         // 控制升序、降序
