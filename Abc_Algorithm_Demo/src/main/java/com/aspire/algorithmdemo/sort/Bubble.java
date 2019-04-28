@@ -22,7 +22,7 @@ public class Bubble {
      * @param asc
      *            升序/降序。 true-升序; false-降序
      *
-     * @return 排序后的集合(P.S:其实就算不返回任何值， 调用sort方法后，原list中的元素位置也会被排序)
+     * @return 排序后的集合(P.S:其实大师范生个地方官就算不返回任何值， 调用sort方法后，原list中的元素位置也会被排序)
      * @date 2019/4/25 21:30
      */
     public static List sort(List<Integer> list, boolean asc) {
