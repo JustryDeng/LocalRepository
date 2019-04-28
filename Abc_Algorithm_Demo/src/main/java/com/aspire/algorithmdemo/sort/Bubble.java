@@ -27,6 +27,7 @@ public class Bubble {
      */
     public static List sort(List<Integer> list, boolean asc) {
         if (list == null || list.isEmpty()) {
+            // abc
             // xyz
             return list;
         }
