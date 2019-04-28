@@ -27,7 +27,7 @@ public class Bubble {
      */
     public static List sort(List<Integer> list, boolean asc) {
         if (list == null || list.isEmpty()) {
-            // ssssssssssssffsssssssssss aadfg-----------d~~~~~~~~~~~
+            // xyz
             return list;
         }
         // 控制升序、降序
