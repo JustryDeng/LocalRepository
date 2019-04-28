@@ -30,6 +30,7 @@ public class Bubble {
             // abc
             // xyzddd
             // xyzvvv
+            // aaa分支
             return list;
         }
         // 控制升序、降序
